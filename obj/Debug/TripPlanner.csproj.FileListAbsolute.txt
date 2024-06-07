@@ -1,0 +1,17 @@
+\\Mac\Home\Desktop\TripPlanner\TripPlanner\bin\Debug\TripPlanner.exe.config
+\\Mac\Home\Desktop\TripPlanner\TripPlanner\bin\Debug\TripPlanner.exe
+\\Mac\Home\Desktop\TripPlanner\TripPlanner\bin\Debug\TripPlanner.pdb
+\\Mac\Home\Desktop\TripPlanner\TripPlanner\obj\Debug\TripPlanner.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\TripPlanner\TripPlanner\obj\Debug\TripPlanner.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\TripPlanner\TripPlanner\obj\Debug\TripPlanner.Properties.Resources.resources
+\\Mac\Home\Desktop\TripPlanner\TripPlanner\obj\Debug\TripPlanner.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\TripPlanner\TripPlanner\obj\Debug\TripPlanner.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\TripPlanner\TripPlanner\obj\Debug\TripPlanner.exe
+\\Mac\Home\Desktop\TripPlanner\TripPlanner\obj\Debug\TripPlanner.pdb
+\\Mac\Home\Desktop\TripPlanner\TripPlanner\obj\Debug\TripPlanner.Plan_A.resources
+\\Mac\Home\Desktop\TripPlanner\TripPlanner\obj\Debug\TripPlanner.Plan_B.resources
+\\Mac\Home\Desktop\TripPlanner\TripPlanner\obj\Debug\TripPlanner.Plan_C.resources
+\\Mac\Home\Desktop\TripPlanner\TripPlanner\obj\Debug\TripPlanner.SignUp.resources
+\\Mac\Home\Desktop\TripPlanner\TripPlanner\obj\Debug\TripPlanner.WelcomePage.resources
+\\Mac\Home\Desktop\TripPlanner\TripPlanner\obj\Debug\TripPlanner.CheckOut.resources
+\\Mac\Home\Desktop\TripPlanner\TripPlanner\obj\Debug\TripPlanner.Trips.resources
